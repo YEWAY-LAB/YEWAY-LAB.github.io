@@ -1,0 +1,4 @@
+interface:
+  display_name: "建筑方案型 PPT"
+  short_description: "以真实建筑证据策划方案汇报，先内容与分镜、再制作与核验，保留原图与黑白秩序"
+  default_prompt: "使用 $architectural-concept-editorial，基于项目原始图纸与图像策划并制作建筑方案型 PPT。"
