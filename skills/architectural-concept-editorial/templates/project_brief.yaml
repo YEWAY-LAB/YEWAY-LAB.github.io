@@ -1,0 +1,13 @@
+project_name: ""
+project_type: ""
+work_mode: PRESENT   # NEW / OPTIMIZE / DEEPEN / PRESENT
+stage: "SD_100"
+audience: "owner"
+output_format: ["pptx", "pdf"]
+canvas: "16:9"
+primary_design_claim: ""
+source_documents: []
+locked_geometry: []
+adjustable_elements: []
+unverified_hypotheses: []
+release_permission: "internal_only"
