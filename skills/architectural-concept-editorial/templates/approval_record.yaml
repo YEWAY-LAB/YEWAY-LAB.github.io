@@ -1,0 +1,13 @@
+project: ""
+mode: PRESENT
+review_policy: approval_before_generation
+content_plan_version: ""
+layout_plan_version: ""
+g1_content_status: REVIEW_PENDING
+# G1：项目事实、内容论点、来源及故事线
+content_approval_evidence: ""
+g2_layout_status: REVIEW_PENDING
+# G2：逐页构图分镜、图纸/摄影位置及裁切关系
+layout_approval_evidence: ""
+production_started: false
+notes: "未获用户明确同意，不得代填 APPROVED。"
